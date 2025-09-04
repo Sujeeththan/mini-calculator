@@ -33,6 +33,7 @@
     border: none;
     border-radius: 2px;
     cursor: pointer;
+    padding: 5px 10px;
 }
 
 .btn1:hover{
