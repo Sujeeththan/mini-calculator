@@ -30,7 +30,7 @@
             document.getElementById("result").value = result;
         };
 
-        function clear(){
+        function clearFields() {
             document.getElementById("num1").value = "";
             document.getElementById("num2").value = "";
             document.getElementById("result").value = "";
